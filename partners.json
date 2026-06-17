@@ -1,0 +1,44 @@
+{
+  "plugins": [
+    {
+      "brand": "WPChill",
+      "name": "Modula",
+      "discount": "20%",
+      "description": "Build beautiful, responsive image galleries and albums in minutes. No coding required.",
+      "url": "https://wp-modula.com/pricing/?discount=WPCHILL20",
+      "featured": true
+    },
+    {
+      "brand": "WPChill",
+      "name": "Download Monitor",
+      "discount": "20%",
+      "description": "Manage, track and control file downloads on your WordPress site with detailed analytics.",
+      "url": "https://www.download-monitor.com/pricing/?discount=WPCHILL20",
+      "featured": false
+    },
+    {
+      "brand": "WPChill",
+      "name": "Strong Testimonials",
+      "discount": "20%",
+      "description": "Collect and display customer testimonials and reviews. Fully customizable layouts.",
+      "url": "https://strongtestimonials.com/pricing/?discount=WPCHILL20",
+      "featured": false
+    },
+    {
+      "brand": "WPChill",
+      "name": "Passster",
+      "discount": "20%",
+      "description": "Password protect any page, post or content area on your WordPress site in seconds.",
+      "url": "https://passster.com/pricing/?discount=WPCHILL20",
+      "featured": true
+    },
+    {
+      "brand": "WPChill",
+      "name": "Filr",
+      "discount": "20%",
+      "description": "A clean, modern front-end file management experience for your WordPress users.",
+      "url": "https://filr.pro/pricing/?discount=WPCHILL20",
+      "featured": false
+    }
+  ]
+}
