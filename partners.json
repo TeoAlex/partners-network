@@ -37,7 +37,7 @@
       "name": "Passster",
       "discount": "10%",
       "description": "Password protect any page, post or content area on your WordPress site in seconds.",
-      "url": "https://passster.com/?discount=ERDSCFDCRPS15",
+      "url": "https://passster.com/?discount=ERDSCFDCRPS15#pricing",
       "featured": true
     },
     {
@@ -45,15 +45,15 @@
       "name": "Filr",
       "discount": "10%",
       "description": "A clean, modern front-end file management experience for your WordPress users.",
-      "url": "https://wpdocumentlibrary.com/?discount=ERDSCFDCRFL15",
+      "url": "https://wpdocumentlibrary.com/?discount=ERDSCFDCRFL15#pricing",
       "featured": false
     },
     {
       "brand": "WPChill",
       "name": "qyrrwp",
       "discount": "10%",
-      "description": "A clean, modern front-end file management experience for your WordPress users.",
-      "url": "https://qyrrwp.com/?discount=ERDSCFDCRQY15",
+      "description": "Generate and customize QR codes for URLs, contacts, SMS, WhatsApp and more, directly from your WordPress admin.",
+      "url": "https://qyrrwp.com/?discount=ERDSCFDCRQY15#pricing",
       "featured": false
     },
     {
