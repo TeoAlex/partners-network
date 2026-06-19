@@ -3,41 +3,65 @@
     {
       "brand": "WPChill",
       "name": "Modula",
-      "discount": "20%",
+      "discount": "10%",
       "description": "Build beautiful, responsive image galleries and albums in minutes. No coding required.",
-      "url": "https://wp-modula.com/pricing/?discount=WPCHILL20",
+      "url": "https://wp-modula.com/pricing/?discount=ERDSCFDCRM15",
       "featured": true
     },
     {
       "brand": "WPChill",
       "name": "Download Monitor",
-      "discount": "20%",
+      "discount": "10%",
       "description": "Manage, track and control file downloads on your WordPress site with detailed analytics.",
-      "url": "https://www.download-monitor.com/pricing/?discount=WPCHILL20",
+      "url": "https://www.download-monitor.com/pricing/?discount=erdscfdcrdlm15",
       "featured": false
     },
     {
       "brand": "WPChill",
       "name": "Strong Testimonials",
-      "discount": "20%",
+      "discount": "10%",
       "description": "Collect and display customer testimonials and reviews. Fully customizable layouts.",
-      "url": "https://strongtestimonials.com/pricing/?discount=WPCHILL20",
+      "url": "https://strongtestimonials.com/pricing/?discount=ERDSCFDCRST15",
+      "featured": false
+    },
+    {
+      "brand": "WPChill",
+      "name": "Kali Forms",
+      "discount": "10%",
+      "description": "Build contact, payment, and feedback forms with a simple drag-and-drop interface.",
+      "url": "https://kaliforms.com/pricing/?discount=ERDSCFDCRKF15",
       "featured": false
     },
     {
       "brand": "WPChill",
       "name": "Passster",
-      "discount": "20%",
+      "discount": "10%",
       "description": "Password protect any page, post or content area on your WordPress site in seconds.",
-      "url": "https://passster.com/pricing/?discount=WPCHILL20",
+      "url": "https://passster.com/?discount=ERDSCFDCRPS15",
       "featured": true
     },
     {
       "brand": "WPChill",
       "name": "Filr",
-      "discount": "20%",
+      "discount": "10%",
       "description": "A clean, modern front-end file management experience for your WordPress users.",
-      "url": "https://filr.pro/pricing/?discount=WPCHILL20",
+      "url": "https://wpdocumentlibrary.com/?discount=ERDSCFDCRFL15",
+      "featured": false
+    },
+    {
+      "brand": "WPChill",
+      "name": "qyrrwp",
+      "discount": "10%",
+      "description": "A clean, modern front-end file management experience for your WordPress users.",
+      "url": "https://qyrrwp.com/?discount=ERDSCFDCRQY15",
+      "featured": false
+    },
+    {
+      "brand": "WPChill",
+      "name": "RSVP PRO",
+      "discount": "10%",
+      "description": "Easily manage event attendees and RSVPs directly on your WordPress site.",
+      "url": "https://rsvpproplugin.com/pricing/?discount=ERDSCFDRSVP15",
       "featured": false
     }
   ]
